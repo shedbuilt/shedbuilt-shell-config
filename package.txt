@@ -1,5 +1,3 @@
 NAME=shedbuilt-shell-config
 VERSION=1
 REVISION=1
-SRC=shedbuilt-shell-config-1.tar.xz
-SRCMD5=1c94ebc59aadffbadd574c729967ba76
