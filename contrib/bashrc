@@ -59,7 +59,7 @@ if ${use_color} ; then
     fi
     PS1+='\u@\h\[\033[01;34m\] \w \$\[\033[00m\] '
 else
-    PS1+='\u@\h \w \$ '
+    PS1='\u@\h \w \$ '
 fi
 
 # End /etc/bashrc
